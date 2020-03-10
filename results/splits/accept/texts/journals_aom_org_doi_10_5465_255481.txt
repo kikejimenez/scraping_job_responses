@@ -1,0 +1,1127 @@
+AOM.org uses cookies to store information on your computer to help improve the user experience and improve site use. By using this site, you consent to the Privacy and Cookie Policy. Learn moreAGREE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    if(false) {
+        document.getElementById("skipNavigationLink").onclick =function skipElement () {
+            var element = document.getElementById('');
+            if(element == null || element == undefined) {
+                element = document.getElementsByClassName('').item(0);
+            }
+            element.setAttribute('tabindex','0');
+            element.focus();
+
+        }
+
+    }
+
+
+
+
+
+
+
+    
+        
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+        Login to your account
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+
+
+
+
+
+
+        
+            
+        
+        
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+    
+        
+    
+    
+        
+
+            
+                    Email
+                
+            
+        
+                
+                    
+                        
+                    
+                
+    
+
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        
+            Password
+            
+        
+        
+        
+        
+                    
+                        Forgot password?
+                    
+                
+    
+
+            
+
+        
+            
+                Keep me logged in
+            
+            
+                
+                        
+                    
+                
+            
+        
+        
+                
+                    
+                
+
+        
+            
+                
+                
+                    New User
+                
+            
+            
+            
+        
+    
+
+
+
+
+
+        
+        
+
+
+
+
+
+    
+        
+        
+            
+
+
+
+
+
+
+Change Password
+
+    
+    
+        
+            Old Password
+        
+        
+        
+    
+    
+        
+            New Password
+        
+        
+        
+        
+            
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+    
+
+
+
+    Too Short
+    Weak
+    Medium
+    Strong
+    Very Strong
+    Too Long
+
+        
+    
+    
+        
+        
+            Password Changed Successfully
+            Your password has been changed
+        
+    
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+    
+    
+        Create a new account
+        
+            
+                
+                    Email
+                
+                
+            
+            
+                
+            
+        
+            
+                
+                Returning user
+            
+        
+    
+
+
+
+
+
+        
+        
+
+
+
+
+    
+        
+            
+
+
+
+
+
+Can't sign in? Forgot your password?
+Enter your email address below and we will send you the reset instructions
+
+
+    
+    
+        
+            Email
+        
+        
+    
+    
+        
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    
+
+    
+            
+        
+        
+
+    
+
+    
+
+    
+    
+            
+            
+                Cancel
+            
+        
+        
+            If the address matches an existing account you will receive an email with instructions to reset your password
+            
+                Close
+            
+        
+    
+
+
+
+
+
+        
+        
+
+
+
+
+
+    
+    
+        Request Username
+        
+            Can't sign in? Forgot your username?
+            Enter your email address below and we will send you your username
+            
+            
+                
+                    
+                        Email
+                    
+                    
+                
+                
+                    
+                
+                
+                
+                    Close
+                
+        
+        
+            If the address matches an existing account you will receive an email with instructions to retrieve your username
+        
+    
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+        
+        
+    
+    	
+    
+
+
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+        
+        SearchAMJAMJAnywhereQuick Search in JournalsEnter words / phrases / DOI / ISBN / keywords / authors / etcSearchSearchQuick Search anywhereEnter words / phrases / DOI / ISBN / keywords / authors / etcSearchSearch
+
+
+
+        
+        Advanced Search
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+            
+            0
+                
+            My Cart
+        
+    
+    
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+        
+        Sign in
+    
+
+
+    
+        
+            
+                AOM Account Login
+            
+            
+                
+                    Subscriber/Institutional Login
+                
+            
+        
+    
+
+
+        
+    
+
+
+
+
+        
+    
+
+
+
+
+        
+        Skip main navigationClose Drawer MenuOpen Drawer MenuHomeJournalsAOM INSIGHTSAcademy of Management AnnalsAcademy of Management DiscoveriesAcademy of Management Global ProceedingsAcademy of Management JournalAcademy of Management Learning & EducationAcademy of Management PerspectivesAcademy of Management ProceedingsAcademy of Management ReviewSubscriptionsMembershipConnect@AOMFor Authors/ContributorsAbout UsContact Us
+
+
+
+        
+    
+
+
+
+
+
+  var protocol = document.location.protocol == "https:" ? "https" : "http";
+  var z = document.createElement("script");
+  z.type = "text/javascript";
+  z.src = protocol + "://s.zkcdn.net/ados.js";
+  z.async = true;
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(z,s);
+
+
+
+
+ 
+
+                                     #mvLeaderboard img {
+
+                                      max-width:100% !important; 
+
+                                      height: auto !important;
+
+                                                }
+
+                                
+								
+
+  var ados = ados || {};
+  ados.run = ados.run || [];
+  ados.run.push(function() {
+    /* load placement for account: Multiview, site: AOMweb - Academy of Management - MultiWeb, size: 728x90 - Leaderboard, zone: AOMweb - Leaderboard */
+    ados_add_placement(4466, 56354, "mvLeaderboard", 4).setZone(59791);
+    /* load placement for account: Multiview, site: AOMweb - Academy of Management - MultiWeb, size: 160x600 - Wide Skyscraper, zone: AOMweb - Skyscraper */
+    ados_add_placement(4466, 56354, "mvSky", 6).setZone(59792);
+ados_setDomain('engine.multiview.com');
+    ados_load();
+  });
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+
+        
+        Academy of Management JournalVol. 22, No. 1
+ArticlesSource Credibility, Information Favorability, and Job Offer AcceptanceCynthia D. Fisher, Daniel R. Ilgen and Wayne D. HoyerCynthia D. FisherTexas A&M UniversityPurdue University
+                Search for more papers by this author
+            , Daniel R. IlgenTexas A&M UniversityPurdue University
+                Search for more papers by this author
+             and Wayne D. HoyerTexas A&M UniversityPurdue University
+                Search for more papers by this author
+            Published Online:30 Nov 2017https://doi.org/10.5465/255481AboutFiguresReferencesRelatedDetailsView Full TextPDF/EPUBView ArticleView Full TextPDF/EPUB
+
+
+
+        
+        
+
+
+
+        
+        ToolsDownload CitationsAdd to favoritesTrack Citations
+
+
+
+
+        
+        ShareShare onFacebookTwitterLinkedInRedditEmail
+
+
+
+
+        
+        
+
+AbstractThe impact of the favorability of information about a job and the source of information upon applicant perception of source credibility and upon job offer acceptance was examined. Results showed that interviewers are the least credible source and that giving negative job information enhanced source credibility but decreased job offer acceptance.FiguresReferencesRelatedDetailsTo view the list of Figures you need to have access to the full text REFERENCES1. 
+ Berlo D. K. , Lemert J. B. , Mertz R. J. “Dimensions for Evaluating the Acceptability of Message Sources,” Public Opinion Quarterly, Vol. 33 (1969), 563–576. Google Scholar2. 
+ Cohen E. , Burns P. SPSS-MANOVA-Multivariate Analysis of Variance and Covariance, preliminary edition  (Evanston, III.: Northwestern University, 1976). Google Scholar3. 
+ Farr J. L. , O’Leary B. C. , Bartlett C. J. “Effect of Work Sample Upon Self-Selection and Turnover of Job Applicants,” Journal of Applied Psychology, Vol. 58 (1973), 283–285. Google Scholar4. 
+ Hovland C. I. , Janis I. L. , Kelley H. H. Communication and Persuasion (New Haven, Conn.: Yale University Press, 1953). Google Scholar5. 
+ Ilgen D. R. , Seely W. “Realistic Expectations as an Aid in Reducing Voluntary Resignations,” Journal of Applied Psychology, Vol. 59 (1974), 452–455. Google Scholar6. 
+ Katzell M. E. “Expectations and Dropouts in Schools of Nursing,” Journal of Applied Psychology, Vol. 52 (1968), 154–157. Google Scholar7. 
+ Macedonia R. M. “Expectations, Press, and Survival,” (Unpublished doctoral dissertation, New York University, 1969). Google Scholar8. 
+ Porter L. W. , Lawler E. E. , Hackman J. R. Behavior in Organizations (New York: McGraw-Hill, 1975). Google Scholar9. 
+ Sorensen J. E. , Rhode J. G. , Lawler E. E. “The Generation Gap in Public Accounting,” Journal of Accountancy, Vol. 136 (1973), 42–50. Google Scholar10. 
+ Wanous J. P. “Effects of a Realistic Job Preview on Job Acceptance, Job Attitudes, and Job Survival,” Journal of Applied Psychology, Vol. 58 (1973), 327–332. Google Scholar11. 
+ Wanous J. P. “Organization Entry: Newcomers Moving from Outside to Inside,” Psychological Bulletin, Vol. 84 (1977), 601–618. Google Scholar12. 
+ Weitz J. “Job Expectancy and Survival,” Journal of Applied Psychology, Vol. 40 (1956), 245–247. Google ScholarCited ByWho will Lead and Who will Follow? a Social Process of Leadership Identity Construction in OrganizationsD. Scott DeRue and Susan J. Ashford30 November 2017 | Academy of Management Review, Vol. 35, No. 4Building Collegial Information Networks: A Theory of Advice Network GenerationJames Nebus1 July 2006 | Academy of Management Review, Vol. 31, No. 3The Sources And Accuracy Of Job Applicants' Beliefs About Organizational CultureDaniel M. Cable, Lynda Aiman-Smith, Paul W. Mulvey and Jeffrey R. Edwards30 November 2017 | Academy of Management Journal, Vol. 43, No. 6Influences of Campus Recruiting on Applicant Attraction to FirmsDaniel B. Turban and Thomas W. Dougherty30 November 2017 | Academy of Management Journal, Vol. 35, No. 4Applicant Attraction Strategies: An Organizational PerspectiveSara L. Rynes and Alison E. Barber1 April 1990 | Academy of Management Review, Vol. 15, No. 2The Realistic Job Preview as a Persuasive Communication.1Paula Popovich and John P. Wanous1 October 1982 | Academy of Management Review, Vol. 7, No. 4
+
+
+
+        
+        RecommendedApplicant Attractiveness as a Perceived Job-Relevant Variable in Selection of Management TraineesTerry A. Beehr and David C. GilmoreVol. 25, No. 3November 2017INFLUENCES OF THE CAMPUS INTERVIEW ON APPLICANT ATTRACTION TO THE ORGANIZATION.Daniel B. Turban and Thomas W. DoughertyVol. 1991, No. 1December 2017Applicant Attraction Strategies: An Organizational PerspectiveSara L. Rynes and Alison E. BarberVol. 15, No. 2April 1990Corporate Social Performance And Organizational Attractiveness To Prospective EmployeesDaniel B. Turban and Daniel W. GreeningVol. 40, No. 3November 2017Corporate Image, Recruitment Image And Initial Job Choice DecisionsRobert D. Gatewood, Mary A. Gowan and Gary J. LautenschlagerVol. 36, No. 2November 2017
+
+
+
+
+        
+        
+
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+        
+        Vol. 22, No. 1
+Permissions
+
+
+
+        
+        
+
+Metrics
+
+
+
+        
+        
+
+
+
+
+
+
+    Downloaded 15 times
+    
+
+
+
+
+
+
+        
+        in the past 12 months
+
+History
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    Published online 30 November 2017
+
+
+
+    
+        
+        
+        
+        Published in print 1 March 1979
+    
+
+
+
+
+
+
+
+
+
+
+        
+    
+Information© Academy of Management JournalKeywordsJOB offersINTERVIEWINGEMPLOYEE selectionJOB applicationsPERSONNEL managementPERSONNEL changesEMPLOYEE recruitmentINTERVIEWERSQUESTIONNAIRESJOB qualificationsCOLLEGE graduatesDECISION makingPDF downloadLoading ...backvar articleRef = document.querySelector('.article__body:not(.show-references) .article__references');
+if (articleRef) { articleRef.style.display = "none"; }
+
+Close Figure ViewerBrowse All FiguresReturn to FigureChange zoom levelZoom inZoom outPrevious FigureNext FigureCaption
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+
+        
+         
+ 
+ 
+ 
+ 
+ Contact Us
+ About
+ Newsletter
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Academy of Management  555 Pleasantville Road, Suite N200  Briarcliff Manor, NY 10510-8020, USA  Phone: +1 (914) 326-1800  Fax: +1 (914) 326-1900
+ 
+ 
+ 
+
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+
+        
+        Information
+
+
+    For Members
+    For Libraries
+    For Advertisers
+    Subscription Rates
+    Ethics
+
+
+
+
+
+        
+        Resources
+
+
+    Dynamic Editions
+    Purchase an Article
+    Permissions
+    AOM Open Access
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+
+        
+        
+
+
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#e4e4e4",
+      "text": "#0070af"
+    },
+    "button": {
+      "background": "#0070af"
+    }
+  },
+               "cookie": {
+      "domain": ".aom.org"
+               },
+  "theme": "edgeless",
+  "position": "bottom",
+  "content": {
+    "message": "AOM.org uses cookies to store information on your computer to help improve the user experience and improve site use. By using this site, you consent to the Privacy and Cookie Policy.",
+    "dismiss": "AGREE",
+    "href": "http://aom.org/About-AOM/Privacy-Policy.aspx"
+  }
+})});
+
+
+
+
+
+        
+        
+    
+        Privacy Policy
+    
+    
+        Logo Use
+    
+
+
+
+
+
+        
+        © 2020 Academy of Management
+   
+Powered by Atypon® Literatum
+
+
+
+        
+    
+
+
+        
+    
+
+
+
+
+        
+        
+
+<img src="https://api.b2c.com/api/noscript-260u9k3l7hxtcferh76.gif">
+
+        
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+Close crossmark popup

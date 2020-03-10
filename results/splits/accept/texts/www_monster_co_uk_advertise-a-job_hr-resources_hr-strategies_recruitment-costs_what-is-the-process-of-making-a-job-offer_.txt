@@ -1,0 +1,500 @@
+
+	
+    	
+	
+	<iframe src="//www.googletagmanager.com/ns.html?id=GTM-WX5GT8"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-WX5GT8');
+	
+	Skip to main content
+
+	
+
+
+
+    
+        
+        
+            
+                 
+            
+            
+            
+            
+
+            
+                Toggle Mobile Navigation
+                
+                
+                
+            
+            
+
+                        
+			Sign In            
+            
+        
+
+
+        
+        
+            
+            
+                
+                
+                    Sign In
+                
+                
+            
+            
+        
+    
+
+    
+        
+            Post A Job
+            Find Candidates
+        
+    
+
+    
+        
+            
+                Post A Job
+            
+            
+                Find Candidates
+            
+                
+        
+            
+                Advantages
+                
+                    Our Story                    
+                
+            
+            
+                Solutions
+                
+                    Small Business                    
+                    Enterprise
+                    Staffing
+                    Government                    
+                
+            
+            
+                Products
+                
+                    Job Advertising
+                    CV Search
+                    Employer Branding
+                    Special Offers
+                    All Products
+                
+            
+                 
+                            Resources 
+                             
+                            			
+				HR Resources
+	    
+			
+				Recruiting Strategies
+	    
+			
+				Workforce Management & Planning
+	    
+			
+				Recruiting Webinars
+	    
+			
+				Labour Market News
+	    
+ 
+                             
+                          
+        
+
+    
+    
+
+    
+    
+        
+        allall
+            
+            ×
+            
+            all
+            
+            
+                                    
+                    Advantages
+                    Solutions
+                    Products
+                    
+                    Resources
+                
+                
+                
+                    Our Story
+                
+
+                
+                
+                    Small Business
+                    Enterprise
+                    Staffing
+                    Government
+                
+
+                
+                
+                    Job Advertising
+                    CV Search
+                    Employer Branding
+                    Special Offers
+                    All Products
+                
+
+                			
+				HR Resources
+	    
+			
+				Recruiting Strategies
+	    
+			
+				Workforce Management & Planning
+	    
+			
+				Recruiting Webinars
+	    
+			
+				Labour Market News
+	    
+            
+            
+        
+    
+    
+
+
+	
+	    
+    
+		
+			
+			
+
+
+
+        			
+        				    
+            				
+                    			
+					    			
+					    			
+                            			
+                                		
+                                		
+
+
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+                                		
+                                			
+Home / HR Strategies / Recruitment Costs / What is the process of making a job offer?                                			
+                            			
+                            			
+					    			
+					   			
+				    			
+            				
+            				
+        					
+            					
+            					    
+            							    
+
+        
+            
+                What is the process of making a job offer?
+                            
+
+            
+                            
+
+            
+            
+                
+                    	Facebook
+                      	Twitter
+                      	LinkedIn
+                      	Email
+                
+                
+                var addthis_share = {title: "What is the process of making a job offer? (via @Monster):"}
+                var addthis_config = { "data_track_addressbar": false, "data_track_clickback" : false };
+                
+                
+            
+            
+
+            
+        	   
+        	                                           	    
+    					       				    
+    				                
+
+		    
+		        
+Untitled Document
+
+You've found the right candidate for your vacancy and now you're ready to offer them the opportunity to take the job. Whilst it's great to be the purveyor of good news, it's important that you follow the correct procedure in order to close the deal 
+Letting the candidate know 
+It's best to make the initial offer by phone where you can discuss the terms of employment and establish whether it's an acceptable offer. Remember that they may have other offers on the table so be enthusiastic about how much you want them to join your company, but don't be surprised if they don't snap your hand off straight away. 
+If not already agreed, any negotiations regarding salary or terms of employment should take stage at this point. Negotiating a salary is a tricky business so make sure you know exactly what you can and can't agree to and be prepared to have to go through a couple of rounds of negotiation before you reach an agreement. 
+Let them know you will be sending out an offer letter by post. This letter should set out the main terms and conditions of the job and include: 
+
+their name 
+the job title 
+the date employment starts (and ends if it's a temporary role) 
+the length of the probation period (if applicable) 
+any conditions the offer is subject to 
+any action required by the candidate (such as forwarding details of their work permit) 
+
+Ask the candidate to send you a signed copy of the offer letter to establish the terms on which the offer was made in case of any future disputes. 
+Remember that this is not a contract of employment and therefore there is still the opportunity for either party to back out of the agreement. Candidates must receive a written statement of the main terms and conditions of employment, usually within two months of the starting date. 
+Checking up 
+It's always necessary to put candidates through a number of checks in order to verify they are suitable to join your company. 
+
+References – You should look to contact at least two previous employers of the individual to determine that they did actually hold the job with the company for the time period claimed. Create a form that the referee can quickly fill in and return, only requesting information that is directly relevant to the role on offer.
+
+
+Medical examination – This can be used to check for general health or to trace any illegal substances that are within the candidate's system. If used, medical exams must be conducted on all candidates, not just certain individuals. 
+
+
+Criminal record – A disclosure can be obtained from the Criminal Records Bureau and should always be considered when the job will involve dealing with vulnerable individuals, children or valuable items. 
+
+
+Work permits – Making sure all your employees are eligible to work in the UK is your responsibility and there are heavy fines for companies who employ illegal workers, whether intentionally or not.
+
+There are a few things you should keep in mind when carrying out pre-employment checks: 
+
+only carry out checks which are necessary and for a specific purpose 
+if you suspect a candidate may fail any of the checks, begin the process earlier so you still have the option of other candidates. 
+where possible, only check the successful applicant 
+let the applicant know what checks will be made, how they will be carried out and how long the process will take 
+only use reliable sources which will reveal relevant information 
+
+If any of your checks reveal adverse information about an applicant, first double check the information and the source, then give them the chance to explain. You don't want to have to go through the whole recruitment process again due to a misunderstanding. 
+Letting the other candidates know 
+  As great as it is to let someone know they have got a new job, you've also got to break the bad news to the unsuccessful candidates. 
+Although it may be time consuming you should make every effort to do this via phone. The candidate took the time to come in and meet you for an interview so the least you can do is pick up the phone and talk to them directly
+If you genuinely believe there may be an opportunity in the future for some of the candidates to apply for an alternative role with your company, ask if they will allow you to retain their details. It could save you a lot of time and effort in the future, or if your newly hired employee doesn't perform as well as expected.
+
+Discuss this issue on The Employer Forum.
+		    
+            
+        
+        
+        
+        
+	    
+	    
+			
+      Related Articles:
+				
+					What are the pros and cons of hiring freelancers?How can I improve my cost per hire?How do I use online job advertising effectively?How can I make a candidate an offer they can’t refuse?How can I reduce my time to hire?		        
+			
+		
+		
+		        
+
+        
+        
+        
+        
+    
+
+
+
+            					
+            			
+
+     
+		
+            
+      		      			
+		
+	
+
+             				
+            			
+            		
+				
+
+
+
+
+
+
+			
+    
+        
+        
+        
+            
+                For Job Seekers
+                Find Jobs
+                Upload CV
+                Site Map
+                Help
+            
+            
+                For Employers
+                Post Jobs
+                Search CVs
+                Site Map
+                Help
+            
+            
+                
+                Employer Resources
+                		Recruiting Strategies
+		
+		Occupational Trends
+		
+		Using Monster
+		
+ 
+                            
+            
+            
+            
+            
+            
+            
+                About Us
+                About Monster
+                Our Story
+                Work for Monster
+                Investor Relations                
+                Monster International
+                Affiliates
+            
+            
+                Support
+                Contact Us
+                Terms of Use
+                Privacy Centre
+                Security Centre
+            
+        
+
+        
+        
+            
+                Post Jobs
+                Search CVs
+                About Monster
+                Contact Us
+                Terms of Use
+                Privacy Centre
+                Security Centre
+            
+        
+        
+            Find Us on Social Media:
+            Facebook
+            Twitter
+            Instagram
+            YouTube
+            Pinterest
+            Google+
+        
+        
+            Copyright © 2019 - Monster Worldwide
+        
+        
+            U.S. Patents No. 7,599,930 B1; 7,827,125 and 7,836,060  V: 2018.20.0.36-311-
+        
+    
+
+	
+			
+			
+
+$(function(){
+    modules.navigation();
+    pageAds.forEach(function (arrayItem)
+    {
+        if (arrayItem.adConfig.adType == "sx"){
+            var adStr = generateAdTagsV2(arrayItem.adConfig);
+            $("#"+ arrayItem.container).replaceWith(adStr);
+        }   
+    }); 
+});
+
+
+
+
+
+
+var DYNAMIC_S_ACCOUNT='newjobsProdHiringUK';
+var DYNAMIC_S_CURRENCYCODE='GBP';
+
+//<![CDATA[
+var amc=amc||{};if(!amc.on){amc.on=amc.call=function(){}};
+document.write("<scr"+"ipt type='text/javascript' src='//media.newjobs.com/id/testadobe/analystics.js'></sc"+"ript>");
+//]]>
+
+    _m.ATM.properties= {
+       "eVar71":"/hr/hr-best-practices/recruiting-hiring-advice/managing-hiring-costs/what-is-the-process-of-making-a-job-offer.aspx",
+       "channel":"200",
+       "eVar1":"D=g",
+       "prop1":"D=g"
+    };
+
+    _m.ATM.pageName='/advertise-a-job/hr-resources/hr-strategies/recruitment-costs/what-is-the-process-of-making-a-job-offer/';
+    _m.ATM.version=0;
+    _m.ATM.appID='hiring';
+    _m.ATM.channelID=200;
+    _m.ATM.countryID=160;
+    _m.ATM.appConfig={version:'0',appID:'hiring',channelID:'200',countryID:'160'};
+    _m.ATM.runOnLoad=true;
+    (function () {if (typeof addMonsterReady != 'undefined') {addMonsterReady(_m.ATM.initFromOnReady);} else {$(document).ready(_m.ATM.initFromOnReady);}})();
+
+
+
+		
+	
+
+
+		
+		
+		
+		
+		
+
+		Customize cookie settings Essential technologiesThese technologies are strictly necessary to provide you with services available through our websites and to use some of its features, such as form submissionsAdvertisingThese technologies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers, and in some cases selecting advertisements that are based on your interests.AnalyticsThese technologies collect information that is used to help us understand how our websites are being used or to help us continuously improve our websites.Social MediaThese technologies are used to enable you to like and share pages and content that you find interesting on our websites through third party social networking and other websites.CancelSaveThis site uses cookies to improve your browsing experience, perform analytics and research, and conduct advertising. To change your preferences, click here to view and edit custom cookies and tracking settings. Otherwise, closing this banner or clicking “Accept all cookies” indicates that you agree to the use of cookies on your device.Accept All Cookies
+	
+

@@ -1,0 +1,997 @@
+
+ 
+
+ 
+	#article_collapse_text{
+		float: left; cursor: pointer; font-weight: bold; width: 400px; padding: 5px 0px 15px; font-size: 15px;
+	}
+	#article_content{
+		font-size: 18px; font-family: Arial, Helvetica, sans-serif; line-height:1.4em;
+	}
+	.titleBar{
+		padding:7px 0px 0px 0px;
+	}
+	h1 .linkTitleArticle{
+		font-size: 28px; font-weight: bold;
+	}
+	.video_list {
+		position:relative;
+		padding-bottom:56.25%;
+		padding-top:30px;
+		height:0;
+		overflow:hidden;
+	}
+	.video_list iframe, 
+	.video_list object, 
+	.video_list embed {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		height:100%;
+	}
+	@media (max-width: 768px){
+		.titleBar{
+			padding:7px 0px 2px 0px;
+		}
+	}
+	@media (max-width: 596px) {
+		#article_collapse_text{
+			width: 100%;
+		}
+		.re_wrap_break_all{
+			word-break: break-word;
+		}
+		#article_content img {
+		    max-width: 100%;
+		}
+	}
+
+
+    
+        
+            
+    
+                        
+            
+        
+                
+            
+                
+                    
+                        Education and Teaching
+                    
+                    
+                                            
+                
+            
+        
+    
+    
+                        
+            
+        
+                
+            
+                
+                    
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+			
+                            
+                        
+                    
+                    
+                        
+                            
+                                
+                                                                       eg: UK or Brides UK or Classical Art or Buy Music or Spirituality
+                                                                                                        
+                            
+                        
+                         
+                    
+                
+            
+        
+    
+
+
+    
+        
+        
+            
+                Toggle navigation
+                
+                
+                
+            
+        
+        
+    
+    
+        
+            
+                
+                    
+                        
+                    
+                    
+                        
+                    
+                    
+                        
+                    
+                    
+                        
+                    
+                
+                
+                    
+                        
+                            
+                                                                eg: UK or Brides UK or Classical Art or Buy Music or Spirituality
+                                                                                            
+                        
+                    
+                     
+                
+            
+        
+    
+
+	
+
+	$j = jQuery.noConflict();
+	$j(function($){
+		var timer;	
+		$j("#parent_select").click(function(){
+			changeArrowDrop();
+			$j("#parent_option").slideToggle("fast");
+			
+		});
+		$j("#parent_option").mouseout(function(){	
+			timer = setTimeout("showHideGrouping();changeArrowDrop();",100);
+		});
+		$j("#parent_select_cont").mouseover(function(){
+			//alert("test");
+			clearTimeout(timer);
+		});
+		
+	});
+	
+	function changeArrowDrop(){
+			if ($j("#parent_option").is(":hidden")){
+				$j("#arrow_drop_2").css('background-position','-141px -6px');
+			}
+			else{
+				$j("#arrow_drop_2").css('background-position','-141px -11px');			
+			}
+	}
+	function changeGroupingMenu(id,group_alias,parent_id){
+		
+		var class_drop_item;
+		if (id=="p_opt_business"){
+			class_drop_item = "sub_business";
+		}else if(id=="p_opt_technology"){
+			class_drop_item = "sub_technology";
+		}else if(id=="p_opt_women"){
+			class_drop_item = "sub_women";
+		}else if(id=="p_opt_health"){
+			class_drop_item = "sub_health";
+		}else if(id=="p_opt_education"){
+			class_drop_item = "sub_education";
+		}else if(id=="p_opt_family"){
+			class_drop_item = "sub_family";
+		}else if(id=="p_opt_travel"){
+			class_drop_item = "sub_travel";
+		}else if(id=="p_opt_automobiles"){
+			class_drop_item = "sub_automobiles";
+		}else if(id=="p_opt_entertainment"){
+			class_drop_item = "sub_entertainment";
+		}else if(id=="p_opt_popular"){
+			class_drop_item = "sub_popular";
+		}
+		
+		$j.ajax({
+		  url: '/etoday/scroll_navigation_content.php?grouping_id='+id+'&parent_id='+parent_id,
+		  success: function(data) {
+		  	$j('#scroll_menu_cont').html(data);
+			
+			show_map_page_menu(group_alias,parent_id,class_drop_item);
+		  }
+		});
+	}
+	
+	function showHideGrouping(){
+		$j("#parent_option").slideUp("fast");
+	}
+	
+
+
+
+
+
+	
+		
+			
+					
+		
+		  
+		 	
+				
+												
+														
+									
+										
+																						
+												Business & Money
+											
+										
+									
+									
+								
+																
+									
+										
+																						
+												Technology
+											
+										
+									
+									
+								
+																
+									
+										
+																						
+												Women
+											
+										
+									
+									
+								
+																
+									
+										
+																						
+												Health
+											
+										
+									
+									
+								
+																
+									
+										
+																						
+												Education
+											
+										
+									
+									
+								
+																
+									
+										
+																						
+												Family
+											
+										
+									
+									
+								
+																
+									
+										
+																						
+												Travel
+											
+										
+									
+									
+								
+																
+									
+										
+																						
+												Cars
+											
+										
+									
+									
+								
+																
+									
+										
+																						
+												Entertainment
+											
+										
+									
+									
+								
+															
+						
+					
+				
+			
+
+  
+    
+      
+	  
+                
+       A Guide to Business
+      
+                
+       Guide to Finance
+      
+                
+       Ideas for Marketing
+      
+                
+       Legal Guide
+      
+                
+       Guide to Insurance
+      
+                
+       Lettre De Motivation
+      
+                
+       Guide to the Stock Market
+      
+                
+       Human Resource Career 
+      
+                
+       Sales Marketing
+      
+                
+       Forex & Trading
+      
+                
+       Advertising & Marketing
+      
+                
+       Startup Guide
+      
+              
+    
+  
+  
+  
+    
+      
+	  
+                
+       Guide to Technology
+      
+                
+       Cell Phones
+      
+                
+       Computer Software
+      
+                
+       IT Hardwares
+      
+                
+       Internet
+      
+                
+       Online Security
+      
+                
+       Cameras
+      
+                
+       Search Engine Optimization
+      
+                
+       Science & Technology
+      
+              
+    
+  
+  
+  
+    
+      
+	  
+                
+       Guide to Women
+      
+                
+       Relationship Advice
+
+      
+                
+       Marriage
+      
+                
+       Jewelry
+      
+                
+       Pregnancy
+      
+                
+       Fashion Style
+      
+                
+       Divorce Guide
+      
+                
+       Wedding Guide
+      
+                
+       Dating Guide
+      
+                
+       Natural Beauty
+      
+              
+    
+  
+  
+  
+    
+      
+	  
+                
+       Guide to Health
+      
+                
+       Guide to Medical
+      
+                
+       Plastic Surgery
+      
+                
+       Weight Loss
+      
+                
+       Sports
+      
+                
+       Body Wellness
+      
+                
+       Cancer Treatment
+      
+                
+       Common Illness
+      
+                
+       Health & Lifestyle
+      
+              
+    
+  
+  
+  
+    
+      
+	  
+                
+       Military Service
+      
+                
+       Politics and Policy 
+      
+                
+       Arts & Humanities
+      
+                
+       Education and Teaching
+      
+                
+       Learn Languages
+      
+                
+       Colleges & Universities
+      
+              
+    
+  
+  
+  
+    
+      
+	  
+                
+       Quality Home Improvement
+      
+                
+       Hobbies and Interests
+      
+                
+       Family Guide to
+      
+                
+       Pet Guide
+      
+                
+       Loans Guide
+      
+                
+       Credit Cards
+      
+                
+       Gardening Guide
+      
+                
+       Home Security
+      
+                
+       Real Estate
+      
+                
+       Home Decor
+      
+                
+       Gift & Present
+      
+              
+    
+  
+  
+  
+    
+      
+	  
+                
+       The Travel Guide
+      
+                
+       Adventure Travel
+      
+                
+       Cruise Ships
+      
+                
+       Beach Holiday
+      
+                
+       Travel Accommodation
+      
+                
+       Holiday Destinations
+      
+              
+    
+  
+  
+  
+    
+      
+	  
+                
+       Information on Cars
+      
+                
+       Traffic Violations
+      
+                
+       Auto Insurance
+      
+                
+       Trailers
+      
+                
+       Sport Cars
+      
+                
+       The Bikes
+      
+              
+    
+  
+  
+  
+    
+      
+	  
+                
+       Entertainment Guide
+      
+                
+       World Music
+      
+                
+       Photo & Video
+      
+                
+       Television & Games
+      
+              
+    
+  
+  
+
+
+
+		
+		
+			
+				Featured Sites
+			
+				
+					
+						SD Editorials
+						
+							
+							Online Guide and article directory site.
+						
+						Foodeditorials.com
+						
+							
+							Over 15,000 recipes & editorials on food.
+						
+						Lyricadvisor.com
+						
+							
+							Get 100,000 Lyric & Albums.
+						
+					
+				
+			
+		
+	
+	
+		
+		
+	
+
+
+.menu_iframe{
+		position:absolute;/*must have*/
+		top:0;/*must have*/
+		left:0;/*must have*/		
+		width: 100%;/*must have for any big value*/
+		height: 100%;/*must have for any big value*/;
+		z-index:-1;
+		visibility:inherit;
+		filter:'progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0)';-moz-opacity:0;
+	}
+
+.menu_iframe_sub{
+		position:absolute;/*must have*/
+		top:0;/*must have*/
+		left:0;/*must have*/		
+		width: 100px;/*must have for any big value*/
+		height: 100%;/*must have for any big value*/;
+		z-index:-1;
+		visibility:inherit;
+		filter:'progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0)';-moz-opacity:0;
+	}	
+
+
+
+	
+
+	
+	function redirectTo(url)
+	{
+		location.href = url
+	}
+
+
+
+	window.onload = function() {
+		show_map_page_menu("","28","");
+	}
+
+
+
+
+
+
+  
+    
+      
+		        
+          Business & Money 
+		            
+			            A Guide to Business
+			            Guide to Finance
+			            Ideas for Marketing
+			            Legal Guide
+			            Guide to Insurance
+			            Lettre De Motivation
+			            Guide to the Stock Market
+			            Human Resource Career 
+			            Sales Marketing
+			            Forex & Trading
+			            Advertising & Marketing
+			            Startup Guide
+			          
+		          
+		        
+          Technology 
+		            
+			            Guide to Technology
+			            Cell Phones
+			            Computer Software
+			            IT Hardwares
+			            Internet
+			            Online Security
+			            Cameras
+			            Search Engine Optimization
+			            Science & Technology
+			          
+		          
+		        
+          Women 
+		            
+			            Guide to Women
+			            Relationship Advice
+
+			            Marriage
+			            Jewelry
+			            Pregnancy
+			            Fashion Style
+			            Divorce Guide
+			            Wedding Guide
+			            Dating Guide
+			            Natural Beauty
+			          
+		          
+		        
+          Health 
+		            
+			            Guide to Health
+			            Guide to Medical
+			            Plastic Surgery
+			            Weight Loss
+			            Sports
+			            Body Wellness
+			            Cancer Treatment
+			            Common Illness
+			            Health & Lifestyle
+			          
+		          
+		        
+          Education 
+		            
+			            Military Service
+			            Politics and Policy 
+			            Arts & Humanities
+			            Education and Teaching
+			            Learn Languages
+			            Colleges & Universities
+			          
+		          
+		        
+          Family 
+		            
+			            Quality Home Improvement
+			            Hobbies and Interests
+			            Family Guide to
+			            Pet Guide
+			            Loans Guide
+			            Credit Cards
+			            Gardening Guide
+			            Home Security
+			            Real Estate
+			            Home Decor
+			            Gift & Present
+			          
+		          
+		        
+          Travel 
+		            
+			            The Travel Guide
+			            Adventure Travel
+			            Cruise Ships
+			            Beach Holiday
+			            Travel Accommodation
+			            Holiday Destinations
+			          
+		          
+		        
+          Cars 
+		            
+			            Information on Cars
+			            Traffic Violations
+			            Auto Insurance
+			            Trailers
+			            Sport Cars
+			            The Bikes
+			          
+		          
+		        
+          Entertainment 
+		            
+			            Entertainment Guide
+			            World Music
+			            Photo & Video
+			            Television & Games
+			          
+		          
+		      
+    
+  
+
+        
+    
+
+
+    
+        
+            
+                
+                    
+                        Acceptance Of Job Offer
+                    
+                    
+                        
+                            
+                        
+                    
+                    
+                        
+                            
+                         
+                    
+                    
+                        
+                    
+                  
+        
+        
+            
+                 
+                 
+                View: 
+            
+        
+        
+    
+
+
+    
+        
+			
+				More Articles from Articles On Education Pg49
+		
+	
+
+			Fashion Degrees are a Popular Trend
+				Poker: From Then to Now
+				Choosing the Right Plastering course provider
+				The Energy Pie - Use More or Conserve?
+				How to deal with cracked plaster
+				Series 7 License - Professional Guarantee
+				Everything You Need To Know About Ecosystems
+				Student Organization Tips: Organized to Learn
+				Distinct Services Available In Orlando Schools
+				Phoenix Schools Receive Numerous Accolades
+				Sacramento Schools And The Trillion Dollar Question
+				Wealth Education Using Affirmations
+				The True Art Of Memorization
+				Remove The Barrier Stopping You From Study Success
+				Who Impacts Washington D.c. Schools?
+				Atlanta Schools Are Models Of Reform
+				Cincinnati Schools Curb Spending
+				Millions In Cuts For Cleveland Schools
+				ISO - Light & Quality
+				Do You Struggle With Proper Piano Fingering?
+						» More on Articles on Education
+    
+    
+        
+            
+                
+                    
+                                
+                            
+                                
+                                    
+                                                                                                            People often receive more than one offer, and a lot of times they look only at the basic salary to compare them. Sadly, by doing this, they may be missing out on a lot of other forms of compensation that may be available, ultimately missing out on a better offer that was on the table.
+						
+						
+						
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						I hope to use this article to show you how to find the hidden values in an offer, and how to assess the various components of an offer. Hopefully you can avoid the trap of mistakenly passing up a fantastic offer just because the basic salary was a few dollars less than another offer!Let's start by looking at what the basic sources of compensation from an offer are:Basic Salary -- Everyone looks at this first, and rightfully so. This is your take-home every month and is the bulk of your compensation. Some companies look to this exclusively to attract people. Recently, the "big oil" companies have been ramping up their base salary for engineers, causing other companies to put their arms up in wonder. However, don't get discouraged (or excited) just off ofyour base salary alone, you must consider the whole picture!Signing Bonus -- These are becoming more and more popular as a way to entice people to work for a company. These can be anywhere from $1,000 all the way up to $25,000 or more! (I just heard the other day of a girl getting a $24,000 signing bonus for a major oil service company!). A lot of times, companies would rather give you a larger signing bonus than a higher basic salary, so watch out for that trap too. Think about it, would you rather have $3,000 in your pocket today, or $1,500 more in your salary each year? If you can, take the salary increase, it will pay off tenfold in the long run.Health Care -- This includes not only health coverage, but dental, life insurance, vision, etc. Look carefully at these, not all companies are equal in what they provide!Other benefits that can be extremely undervalued:Performance Bonuses -- Pay for performance is an extremely useful company tool, but it's application is hit or miss. Depending on the job, this could be huge ' some sales jobs are all commission based, whereas other jobs (pure engineering) are functional and therefore performance is harder to measure, so a bonus can be as small as a few hundred dollars just because the company did well. Either way, make sure you are clear on what the expectations and resulting payouts could be for the offer you are looking at.Free on-site gym -- These can be worth at least $150 per year, not including any special courses (think Yoga, Dance, Pilates, etc). They also save you on gas and time it takes to travel to an off-site gym, so consider that too.401k Matching -- Almost every company matches your contributions to a retirement plan, but not every company matches equally. (A quick lesson on 401k plans in case you haven't heard of them before: a 401k plan is a pre-tax contribution you make to an account that you can then invest in a number of different ways. The money you accrue goes with you when you change jobs, and when you retire, you start withdrawing it to live off of). The differences you will find between companies are in the amount they will match, some will match nothing, some up to 15% (i.e. if you contribute 6% of your salary each year, they will "match" your contribution by contributing 6% as well, making your contribution a total of 12%). Obviously, the higher the match, the more money you will end up with in the end. However, don't be discouraged by a company that doesn't offer a very high match, as they may also have a company pension plan to supplement the 401k plan. These pensions are usually based on years of service to the company; the longer you work there, the higher the eventual payment. The downside is that in today's world, not many people are staying with the same company for 30+ years. I heard recently that the average stay at a company is now down to around 5 years. Keep this in mind when you weigh a pension plan to supplement a 401k.Company-paid Car -- My good friend Tom had a company car for the first 12 years of his career, and it really made the difference in his wealth building. You can roughly estimate that the value of the car is at least $350 per month, plus gas (about $100 per month), plus insurance (about $150 per month). Add all that up, and it's a $600 value per month that you do not have to pay. Not only that, but the money you would spend on your vehicle is after-tax money, meaning that instead of it costing you $600 per month, it really costs closer to $900 per month. Add all that up, and it amounts to at least $10,800 per year. Imagine what you could do with that: save it, invest it, pay down student loans, buy yourself jewelry, go on a luxury trip to Hawaii. You can see why I say it's underrated.Company Discounts -- Be sure to ask about these! Most companies have a deal with cell phone providers for a monthly discount on plans, usually 10-20%. Some companies have supplier-discount arrangements with automotive manufacturers, which amounts to getting cars at invoice prices (without having to negotiate!)—That allowed me to get a car for $21,000 including tax, license, etc, when MSRP on it was $24,500. Most companies give you a discount on their own products too. Other companies have an employee stock purchasing system, where you can purchase company stock at a reduced price (Think along the lines of a 30% discount or more!). This just scratches the surface of what might be available if you ask the question to your company recruiter.Travel -- With some jobs requiring traveling multiple weeks in a row, some companies allow you to fly anywhere you want over the weekend, provided the ticket cost is the same or less than it would be to fly home. This can mean a free company-paid vacation (without the hotel of course). Also included with high-travel jobs are the frequent flier miles and hotel points you accumulate. Several people in my company who travel significantly rarely have to pay for their hotels or flights when they go on personal vacations. Think about that, a near-free vacation!Company Location -- Clearly cost of living is what matters here. Locations like the east coast and southern California can require 10-20% more compensation to achieve the same standard of living that you can have elsewhere. More tangibly, a nice house in Houston, TX can be as inexpensive as $100,000. A comparable house in Los Angeles is $500,000. Can you afford the difference?The list goes on, and you probably get the picture by now. The general idea when comparing multiple offers is that you really need to do your homework with companies before making a decision. Take the time to make the phone call or send the email to ask what benefits are available at that particular company. I can't imagine a company that would not tell you what is offered, as they will be trying to create the most value to you that they can.To get the total value of the offer, make a spreadsheet or list of everything that is offered, along with its potential value to you. Do this for each of your offers and then compare them. Be careful though that each one of your spreadsheets contains similar data and is "apples to apples."You can then use this comparison in your negotiations with companies, but that's another story...
+                                    
+                                                                    
+                                                                
+                                    
+						
+						
+						
+						(adsbygoogle = window.adsbygoogle || []).push({});
+						
+                                
+                                                            
+                        
+                        
+                            
+                                
+                                    
+                                        
+                                        
+                                            
+                                                
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                  
+            
+        
+    
+
+
+    
+        
+            
+                Related Articles
+                Author
+                Most Popular            
+        
+        
+            •Accept A Job Offer, by Heather Eagar•Acceptance Of Job Offer, by Robert Halgren•Acceptance Of Offer Letter, by John Mce•Any Kind Of Job, by John Mce•Any Type Of Job, by Will Robins
+            
+                Robert Halgren has sinced written about  articles on various topics from Education, Interview Questions and Education. This article was written by Bob Halgren, an expert in the field of helping people get jobs during their college years.  For more great information on the subject, visit:. Robert Halgren's top article  generates over 4400 views. Bookmark Robert Halgren to your Favourites.
+            
+            
+                Business Trends In 2009
+                
+                Entrepreneurs who can find ways to make the lives of obese people easier and more fun rather than just trying to get them to lose weight will enjoy the fruits of their labour
+            
+        
+    
+
+ 
+
+	
+		
+					
+				
+																			A Guide to Business
+																	|						Guide to Technology
+																	|						Guide to Women
+																	|						Guide to Health
+																								|						Family Guide to
+																	|						Travel & Vacations
+																	|						Information on Cars
+																		
+		
+	
+ 
+	
+		
+			EditorialToday Education and Teaching has 2 sub sections. Such as Education Today and Early Childhood Learning. With over 20,000 authors and writers, we are a well known online resource and editorial services site in United Kingdom, Canada & America . Here, we cover all the major topics from self help guide to A Guide to Business, Guide to Finance, Ideas for Marketing, Legal Guide, Lettre De Motivation, Guide to Insurance, Guide to Health, Guide to Medical, Military Service, Guide to Women, Pet Guide, Politics and Policy , Guide to Technology, The Travel Guide, Information on Cars, Entertainment Guide, Family Guide to, Hobbies and Interests, Quality Home Improvement, Arts & Humanities and many more.		
+		About Editorial Today | Contact Us | Terms of Use | Submit an Article | Our Authors | Most Popular 
+		
+	
+		
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-15222285-24']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	
+	
+
+
+			
+		
+		
